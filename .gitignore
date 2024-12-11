@@ -1,0 +1,9 @@
+Vision/Classification/Retinal/Retinal.zip
+Vision/Classification/Retinal/dataset
+
+Vision/Classification/BUSI/BreastUS.zip
+Vision/Classification/BUSI/Dataset_BUSI_with_GT
+Vision/Classification/BUSI/Dataset_BUSI_with_GT_images
+Vision/Classification/BUSI/Dataset_BUSI_with_GT_masks
+
+__pycache__/
